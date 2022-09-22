@@ -3,5 +3,3 @@
  Em Andamento
  
 - Criando jogo Super Mario com HTML, CSS e JavaScript.
-# Jogo-Mario-Run
-# Jogo-Mario-Run
